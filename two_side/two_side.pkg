@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'two_side': Estimation of static panel data regression models with two-sided censoring or truncation Use two_side With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ltwo_side.mlib
+f two_side.ado
+f two_side.sthlp
