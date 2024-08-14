@@ -1,6 +1,8 @@
 # two-side
 Estimation of static panel data regression models with two-sided censoring or truncation Use two_side With STATA 18
 
+https://www.youtube.com/watch?v=sPoDnUAhCLg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
